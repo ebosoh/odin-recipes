@@ -1,0 +1,4 @@
+ADD STYLE TO THE HTML
+
+Created the stylesheet file for styling the HTML
+Linked the stylesheet to the HTML files
